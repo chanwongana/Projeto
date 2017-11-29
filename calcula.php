@@ -6,11 +6,12 @@
 		<style>
 			body{background: #c4c4c4;}
 			fieldset{
-				width: 250px;
-				height: 120px;
+				width: 450px;
+				height: 220px;
 				margin: 200px 0px 0px 450px;
 				padding 5px 5px 5px 5px;
 				border: 2px groove;
+				
 			};
 		</style>
 	</head>
