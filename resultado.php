@@ -56,6 +56,7 @@
 				<tr><td colspan="2" align="center">
 					<input type="button" value="Finalizar" onClick="javascript:location.href='index.php'">
 				</td></tr>
+				<tr><td>TESTE GIT</td></tr>
 				</table>
 			</form>
 		</fieldset>
